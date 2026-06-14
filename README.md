@@ -6,7 +6,7 @@ Specialized Java AI agent created for fun and someday [profit](#support-my-work)
 - **Highly opinionated code conventions and practices** gathered from my own 16+ experience, with a focus on 
   simplicity, readability and maintainability.
 - **Code and tools modernization** - targeting Java 25 LTS and Spring Boot
-- **Beyond the language** — from shell scripting to containerization, covering the tooling and DevOps practices that 
+- **Beyond Java** — from shell scripting to containerization, covering the tooling and DevOps practices that 
   surround Java development in the real world.
 - **Maximum visibility** - no hidden tools installed, just plain text which AI agents can understand
 - **Token optimized** - achieving more for a smaller cost
@@ -21,6 +21,12 @@ Specialized Java AI agent created for fun and someday [profit](#support-my-work)
 ### Antigravity
 
 ## Skills
+This agents orchestrates the work with the help of different skills:
+### bash
+### docker
+### git
+### java-code-upgrade
+### java-code-style
 
 ## Support my work
 
