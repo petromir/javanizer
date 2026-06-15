@@ -21,12 +21,19 @@ Specialized Java AI agent created for fun and someday [profit](#support-my-work)
 ### Antigravity
 
 ## Skills
-This agents orchestrates the work with the help of different skills:
+This agent orchestrates the work with the help of different skills:
 ### bash
+A [skill](https://github.com/petromir/oh-my-ai/blob/master/common/skills/bash/SKILL.md) developed by me 
+
 ### docker
+A [skill](https://github.com/petromir/oh-my-ai/blob/master/common/skills/docker/SKILL.md) developed by me
+
 ### git
+A [skill](https://github.com/petromir/oh-my-ai/blob/master/common/skills/git/SKILL.md) developed by me
+
 ### java-code-upgrade
 ### java-code-style
+A skill developed by me
 
 ## Support my work
 
