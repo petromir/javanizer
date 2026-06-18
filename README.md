@@ -9,7 +9,7 @@ Specialized Java AI agent created for fun and someday [profit](#support-my-work)
 - **Beyond Java** — from shell scripting to containerization, covering the tooling and DevOps practices that 
   surround Java development in the real world.
 - **Maximum visibility** - no hidden tools installed, just plain text which AI agents can understand
-- **Token optimized** - achieving more for a smaller cost
+- **Token optimized** - achieving more for less
 
 ## Installation
 ### OpenCode
